@@ -8,7 +8,7 @@ const ContactPage = () => {
         <Head title="Contact"/>
             <h1>Contact</h1>
             <p>
-                Ashish is a very great developer reach him on <a href="https://www.instagram.com/ashishfatnani/" target="_blank" rel="noopener noreferrer">@ashish.fatanani</a>
+                Follow me on: <a href="https://twitter.com/suketup" target="_blank" rel="noopener noreferrer">@suketup</a>
             </p>
         </Layout>
 
