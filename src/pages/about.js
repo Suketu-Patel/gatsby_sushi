@@ -11,7 +11,7 @@ const AboutPage = ()=>{
             <p>
                 Laboris aliquip occaecat elit eiusmod in.
             </p>
-            <p><Link to="/contact">Want to work with ashish? Reach out</Link></p>
+            <p><Link to="/contact">Want to work with me? Reach out</Link></p>
         </Layout>
     )
 }
