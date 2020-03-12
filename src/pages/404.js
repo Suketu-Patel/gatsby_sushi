@@ -7,7 +7,7 @@ const NotFound = ()=>{
     return(
         <Layout>
             <h1>Page not found</h1>
-            <img src="./annoyed_vader.png" alt="annoyed vader" width="400"></img>
+            <img src="https://fab404.com/wp-content/uploads/2013/05/androiddev101404.jpg" alt="annoyed vader" width="400"></img>
             <p><Link to="/">Head home</Link></p>
         </Layout>
     )
